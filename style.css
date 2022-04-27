@@ -1,0 +1,47 @@
+:root {
+	--botonColor: #c70039;
+	--darkPrimary: #1f2937;
+	--darkSecondary: #111827;
+	--light: #f3f4f6;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	background-color: var(--darkPrimary);
+}
+#timeContainer {
+	margin: auto;
+	max-width: 450px;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+	background-color: var(--darkSecondary);
+}
+#timeDisplay {
+	font-size: 80px;
+	font-family: "Futura", Times, serif;
+	color: var(--light);
+}
+.containerButtons {
+	display: flex;
+	gap: 15px;
+}
+.timerBtn {
+	width: 80px;
+	padding: 10px;
+	text-align: center;
+	border: 3px solid var(--botonColor);
+	border-radius: 5px;
+	color: white;
+	cursor: pointer;
+	font-family: "Futura", Times, serif;
+}
