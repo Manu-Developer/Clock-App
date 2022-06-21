@@ -1,1 +1,1 @@
-# A simple clock app using JavaScript
+# A simple clock app written in JavaScript.
