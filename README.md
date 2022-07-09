@@ -6,7 +6,7 @@ Here you can see my personal portfolio where you can discover more about me.
 
 ## Final Project
 
-![WebSite Frame](https://user-images.githubusercontent.com/61896414/155162248-ddca6e02-eee4-4cdf-9b17-409619c367a6.jpg)
+![image](https://user-images.githubusercontent.com/61896414/178121327-db031f7a-a6c5-4ed7-9ad1-8d17bee5c265.png)
 
 ## Designed with Figma
 
