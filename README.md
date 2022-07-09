@@ -1,6 +1,4 @@
-# Persona Portfolio
-
-Hello 👋 for all developers. 
+# Persona PortfolioHello 👋 for all developers. 
 
 Here you can see my personal portfolio where you can discover more about me. 
 
