@@ -4,9 +4,7 @@ Hello 👋 for all developers.
 
 Here you can see my personal portfolio where you can discover more about me. 
 
-## Final Project
-
-![image](https://user-images.githubusercontent.com/61896414/178121327-db031f7a-a6c5-4ed7-9ad1-8d17bee5c265.png)
+Hope you like it!
 
 ## Designed with Figma
 
